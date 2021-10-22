@@ -1,0 +1,516 @@
+﻿"Nombre","Apellidos","Dirección de correo electrónico","Unidad 2 - Mecánica de fluidos (no asistentes) ","Puntos","Comentarios","Tarea Semana 6  (se aceptan con retraso) ","Puntos","Comentarios","Actividad clase- 05102021","Puntos","Comentarios","Actividad clase - 01102021","Puntos","Comentarios","Actividad clase - 28092021","Puntos","Comentarios","actividad - Coef. compresibilidad","Puntos","Comentarios","Actividad - Google Colab","Puntos","Comentarios","Tarea  Semana 4","Puntos","Comentarios","Actividad Clase - 20210909","Puntos","Comentarios","Unidad 1 - Mecánica de Fluidos","Puntos","Comentarios","Actividad en clase ","Puntos","Comentarios","Tarea - Semana 2","Puntos","Comentarios","Tarea - Semana 1 ","Puntos","Comentarios"
+"ADRIAN","ANDRADE RIVERA","adrian.andrade@alumno.buap.mx","100","100","","100","100","","100","100","","100","100","","100","100","","80","100","Revisar ejercicio 1 en el libro,  la constante de compresibilidad de un gas ideal k = P . 
+
+
+- Error de ecuación, revisa los signos , el valor ∆p debe ser positivo. ","100","100","Muy bien, 
+
+- Trata de introducir el concepto de funciones. 
+
+- Trata de presentar el resultado de energía total en notación cientifica. ","100","100","El trabajo esta resuelto en https://github.com/jesuscapistran/ex_fluidmechanics/blob/main/02_unidad/00_densidad_gasideal.ipynb 
+
+Entregado a tiempo ! 100 % 
+Con retraso 80% ","100","100","","96","100","","100","100","","87.5","100","","90","100",""
+"ANA","QUIROZ MEJIA","ana.quirozme@alumno.buap.mx","95","100","","100","100","","100","100","Revisa una vez mas tu codigo
+
+h=((2*Ts)/(D*g*R))*cos 
+
+En esta fórmula la función coseno se utiliza de esta manera. 
+
+np.cos()
+
+h = ((2*Ts)/(D*g*R))*np.cos(theta) ","100","100","","100","100","","90","100","","80","100","Existe error de entrada en los datos,
+
+- Antes de realizar los calculos, debes revisar que las unidades sean homogeneas en cada uno de los miembros de la ecucación. 
+
+- revisa las unidades de entalpia. ","100","100","El trabajo esta resuelto en https://github.com/jesuscapistran/ex_fluidmechanics/blob/main/02_unidad/00_densidad_gasideal.ipynb 
+
+Entregado a tiempo ! 100 % 
+Con retraso 80% ","100","100","Buen trabajo 
+
+La ecuación de peso específico se obtiene al sustituir Volumen  de la ecuación : 
+
+Peso esp = Peso/Volumen 
+
+a) Peso esp = m·g/Volumen 
+b) Peso esp = m·g/(m/densidad) 
+c) Peso esp =  densidad·g ","86","100","","100","100","No olvides colocar unidades a la hora de realizar calculos ","100","100","","95","100",""
+"ATZIRY","APARICIO OSORIO","atziry.aparicioo@alumno.buap.mx","95","100","","100","100","Excelente trabajo, el análisis me parece muy bueno. 
+
+
+Este trabajo puedes utilizarlo más adelante en temas de eficiencia energetica,  puedes proponer evaluar el ahorro en costo al considerar una tecnología de calentador solar  para procesos termicos. 
+
+","100","100","","100","100","","100","100","","100","100","","100","100","","100","100","El trabajo esta resuelto en https://github.com/jesuscapistran/ex_fluidmechanics/blob/main/02_unidad/00_densidad_gasideal.ipynb 
+
+Entregado a tiempo ! 100 % 
+Con retraso 80% ","100","100","","90","100","","100","100","Excelente desarrollo del  problema  con diagrama de situación. ","92.5","100","","97.5","100",""
+"CHRISTOPHER","HERNANDEZ RAMIREZ","christopher.hernandezra@alumno.buap.mx","79","100","","0","100","","","100","Entregar para tomar en cuenta","","100","Entregar para tomar en cuenta","","100","Entregar para tomar en cuenta","70","100","Es necesario revisar los videos de introducción a la programación en python .. 
+
+trata de reproducir los ejemplos que hemos ido resuelto en clase. 
+
+Intentalo, no te rindas
+
+https://github.com/jesuscapistran/ex_fluidmechanics/tree/main/02_unidad 
+
+","80","100","Bien, en este programa no necesitamos importar  módulos nuevos. 
+
+import numpy as np
+- Es para usar análisis, numerico, vectores, algebra linear. 
+  
+import matplotlib.pyplot as plt
+-Este modulo se utiliza para graficar. 
+
+(No olvides tomar un curso básico de python en youtube). ","100","100","El trabajo esta resuelto en https://github.com/jesuscapistran/ex_fluidmechanics/blob/main/02_unidad/00_densidad_gasideal.ipynb 
+
+Entregado a tiempo ! 100 % 
+Con retraso 80% ","50","100","Listo, se toma en cuenta con retraso, 
+
+No olvidar el concepto de  pesos específico. ","85","100","","100","100","Lo resolveremos en Python !!  
+sIntentalo una vez mas ","92.5","100","","90","100",""
+"DANTE","RAMIREZ ALARCON","dante.ramireza@alumno.buap.mx","89","100","","92.5","100","","100","100","","80","100","","100","100","","90","100","","80","100","Tienes error de entrada,  antes de realizar los calculos es importante revisar que las unidades en cada uno de los miembros sean homogeneos. 
+
+Revisa el valor y unidades de entalpia
+
+","90","100","El trabajo esta resuelto en https://github.com/jesuscapistran/ex_fluidmechanics/blob/main/02_unidad/00_densidad_gasideal.ipynb 
+
+Entregado a tiempo ! 100 % 
+Con retraso 80% ","100","100","Buen trabajo
+
+La ecuación de peso específico se obtiene al sustituir Volumen  de la ecuación : 
+
+Peso esp = Peso/Volumen 
+
+a) Peso esp = m·g/Volumen 
+b) Peso esp = m·g/(m/densidad) 
+c) Peso esp =  densidad·g ","75","100","","100","100","Buen trabajo ! ","0","100","Hola Dante,  necesito que me envies la tarea 2  esta semana, para tomarla en cuenta en tu calificación, tendrás un valor máximo de 80% , es importante que la envíes para tomarla en cuenta en tu calificación. ","90","100",""
+"ELIAS","ELIAS ROMERO","elias.eliasr@alumno.buap.mx","90","100","","0","100","","100","100","Excelente, solo recuerda que puedes utilizar la funcion cos() desde la libreria numpy con el siguiente comando 
+
+np.cos(theta) 
+
+theta = angulo en radianes","","100","Entregar para tomar en cuenta","80","100","En ejercicio 2, confundiste el termino de densidad . (favor de revisar.)","","100","Entregar para tomar en cuenta como participación en clase","70","100","Revisa que la ecuación cuente con unidades homogeneas (J/kg)
+
+el problema se encuentra en  h , revisa ese dato. 
+
+","0","100","No entrego tarea","100","100","Llegas al resultado,  toma cuidado en mostrar coherencia al presentar el procedimiento.   
+
+La ecuación de peso específico se obtiene al sustituir Volumen  de la ecuación : 
+
+Peso esp = Peso/Volumen 
+
+a) Peso esp = m·g/Volumen 
+b) Peso esp = m·g/(m/densidad) 
+c) Peso esp =  densidad·g ","47","100","","100","100","","92.5","100","","70","100","
+"
+"HAZAEL","ESPINOSA NEGRETE","hazael.espinosa@alumno.buap.mx","95","100","","0","100","","100","100","Buen trabajo, solo trata de no usar simbolos como ∂ para definir variables. . ","80","100","","80","100","falta  1 ejercicio ","80","100","","100","100","","0","100","No entrego tarea","100","100","Llegas al resultado,  se observa que falta despejar Volumen al final. 
+Ten cuidado con la forma de presentar para que sea lo mas legible posible. 
+
+La ecuación de peso específico se obtiene al sustituir Volumen  de la ecuación : 
+
+Peso esp = Peso/Volumen 
+
+a) Peso esp = m·g/Volumen 
+b) Peso esp = m·g/(m/densidad) 
+c) Peso esp =  densidad·g ","96","100","","100","100","","87.5","100","","95","100",""
+"INGRID","VILLANUEVA LOPEZ","ingrid.villanueva@alumno.buap.mx","95","100","","100","100","","100","100","","100","100","","100","100","","100","100","","100","100","El resultado es correcto, 
+
+no olvides comentar tu codigo para revisarlo de forma más rapida. 
+
+- Intenta entregar el resultado en notación cientifica. ","100","100","El trabajo esta resuelto en https://github.com/jesuscapistran/ex_fluidmechanics/blob/main/02_unidad/00_densidad_gasideal.ipynb 
+
+Entregado a tiempo ! 100 % 
+Con retraso 80% ","100","100","Buen trabajo 
+
+La ecuación de peso específico se obtiene al sustituir Volumen  de la ecuación : 
+
+Peso esp = Peso/Volumen 
+
+a) Peso esp = m·g/Volumen 
+b) Peso esp = m·g/(m/densidad) 
+c) Peso esp =  densidad·g ","90","100","","100","100","","100","100","","85","100",""
+"ITZEL","REYES ARRIAGA","itzel.reyesar@alumno.buap.mx","84","100","","92.5","100","","100","100","","80","100","","100","100","","100","100","","80","100","Tienes error de entrada,  antes de realizar los calculos es importante revisar que las unidades en cada uno de los miembros sean homogeneos. 
+
+Revisa el valor y unidades de entalpia","100","100","El trabajo esta resuelto en https://github.com/jesuscapistran/ex_fluidmechanics/blob/main/02_unidad/00_densidad_gasideal.ipynb 
+
+Entregado a tiempo ! 100 % 
+Con retraso 80% ","100","100","Bien
+
+La ecuación de peso específico se obtiene al sustituir Volumen  de la ecuación : 
+
+Peso esp = Peso/Volumen 
+
+a) Peso esp = m·g/Volumen 
+b) Peso esp = m·g/(m/densidad) 
+c) Peso esp =  densidad·g ","79","100","","100","100","Recuerda que la g  cambia en función de la altura a la que estemos sobre el nivel del mar. 
+
+g = a+bz   
+
+Por lo tanto la g para cada lugar deberá ser diferente. 
+
+W = mg ","100","100","","100","100",""
+"JAQUELIN","MONARCA PEREZ","jaquelin.monarcap@alumno.buap.mx","95","100","","0","100","No hay información en el documento ","","100","Entregar actividad para tomarla en cuenta en su calificación de la unidad 2","","100","No hay contenido dentro del cuaderno de google colab ","","100","No cuento con acceso a tu libreta de Google Colab , favor de revisar. ","80","100","Sin acceso al programa -
+- Se debe colocar en modo publico 
+
+","0","100","El programa no esta completo, favor de re-enviarlo ! 
+
+De acuerdo a lo visto el dia de hoy en clase. 
+","100","100","El trabajo esta resuelto en https://github.com/jesuscapistran/ex_fluidmechanics/blob/main/02_unidad/00_densidad_gasideal.ipynb 
+
+Entregado a tiempo ! 100 % 
+Con retraso 80% ","0","100","Entregar actividad para tomarla en cuenta ","55","100","","0","100","","77.5","100","","0","100","Hola Jaquelin,  necesito que me envies la tarea 1  para tomarla en cuenta en tu calificación, tendrás un valor máximo de 80% , es importante que la envíes para tomarla en cuenta en tu calificación. "
+"JOSE","CRUZ CID","jose.cruzci@alumno.buap.mx","69","100","","85","100","","100","100","","100","100","","80","100","","90","100","","90","100","La metodología es correcta, sin embargo falta revisar que las unidades sean homogeneas. 
+
+El error se encuentra en las unidades de entalpia.  Porfa revisa para que obtengas el dato correcto.  [J/Kg]","100","100","El trabajo esta resuelto en https://github.com/jesuscapistran/ex_fluidmechanics/blob/main/02_unidad/00_densidad_gasideal.ipynb 
+
+Entregado a tiempo ! 100 % 
+Con retraso 80% ","100","100","Esta un poco confuso, llegas al resultado pero es necesario realizar un proceso coherente.. 
+
+Ejemplo: 
+
+La ecuación de peso específico se obtiene al sustituir Volumen  de la ecuación : 
+
+Peso esp = Peso/Volumen 
+
+a) Peso esp = m·g/Volumen 
+b) Peso esp = m·g/(m/densidad) 
+c) Peso esp =  densidad·g ","70","100","","100","100","","87.5","100","","90","100",""
+"JOSE","CHACON IBANEZ","jose.chacon@alumno.buap.mx","90","100","","0","100","","100","100","trata de usar la libraria numpy para realizar los calculos de funciones matematicas como:
+
+theta = 0  #radianes  
+
+seria 
+np.cos(theta) ","","100","Entregar para tomar en cuenta","80","100","Revisar segundo problema,  confundiste el termino de densidad. 
+
+- Revisar la evaluación de limites de la integral. ","","100","Entregar para tomar en cuenta esta participación en clase. ","80","100","La metodología es correcta, sin embargo falta revisar que las unidades sean homogeneas. 
+
+El error se encuentra en las unidades de entalpia.  Porfa revisa para que obtengas el dato correcto.  [J/Kg]","0","100","No entrego tarea","0","100","Entregar actividad para tomarla en cuenta ","65","100","","100","100","","0","100","Hola José,  necesito que me envies la tarea 2  esta semana, para tomarla en cuenta en tu calificación, tendrás un valor máximo de 80% , es importante que la envíes para tomarla en cuenta en tu calificación. ","85","100",""
+"JOSE","CARINO GARCIA","jose.carinog@alumno.buap.mx","83","100","","85","100","","100","100","","100","100","","90","100","","100","100","","80","100","La metodología es correcta, sin embargo falta revisar que las unidades sean homogeneas. 
+
+El error se encuentra en las unidades de entalpia.  Porfa revisa para que obtengas el dato correcto.  [J/Kg]
+
+","100","100","El trabajo esta resuelto en https://github.com/jesuscapistran/ex_fluidmechanics/blob/main/02_unidad/00_densidad_gasideal.ipynb 
+
+Entregado a tiempo ! 100 % 
+Con retraso 80% ","100","100","Bien
+
+La ecuación de peso específico se obtiene al sustituir Volumen  de la ecuación : 
+
+Peso esp = Peso/Volumen 
+
+a) Peso esp = m·g/Volumen 
+b) Peso esp = m·g/(m/densidad) 
+c) Peso esp =  densidad·g ","59","100","","100","100","","95","100","","90","100",""
+"JULIO","SANCHEZ SANCHEZ","julio.sanchezsa@alumno.buap.mx","79","100","","70","100","Bien por el desarrollo de la primer parte de la tarea. 
+
+La segunda parte falto información. ","","100","Entregar para tomarlo en cuenta","","100","Entregar para tomar en cuenta","80","100","","80","100","","100","100","Buen trabajo, 
+
+Intenta colocar el concepto de funciones en tu próxima tarea. 
+
+Intenta entregar el resultado en notación cientifica. 
+","100","100","El trabajo esta resuelto en https://github.com/jesuscapistran/ex_fluidmechanics/blob/main/02_unidad/00_densidad_gasideal.ipynb 
+
+Entregado a tiempo ! 100 % 
+Con retraso 80% ","100","100","Bien, llegaste al resultado,  diste un poco de vueltas al problema. 
+
+Considera esta solución :
+
+La ecuación de peso específico se obtiene al sustituir Volumen  de la ecuación : 
+
+Peso esp = Peso/Volumen 
+
+a) Peso esp = m·g/Volumen 
+b) Peso esp = m·g/(m/densidad) 
+c) Peso esp =  densidad·g ","83","100","","100","100","Buen trabajo ","95","100","","72.5","100",""
+"JULIO","NARANJO RUIZ","julio.naranjor@alumno.buap.mx","63","100","","0","100","","","100","Favor de entregar actividad para tomarla en cuenta","","100","Entregar para tomar en cuenta","","100","Favor de entregar para tomar en cuenta ","","100","Entregar trabajo para tomar en cuenta como participación del día ","0","100","Enviar actividad, para tomarla en cuenta (con retraso). ","100","100","El trabajo esta resuelto en https://github.com/jesuscapistran/ex_fluidmechanics/blob/main/02_unidad/00_densidad_gasideal.ipynb 
+
+Entregado a tiempo ! 100 % 
+Con retraso 80% ","0","100","Entregar actividad para ser tomada en cuenta","68","100","","0","100","","0","100","Hola Julio,  necesito que me envies la tarea 2  esta semana, para tomarla en cuenta en tu calificación, tendrás un valor máximo de 80% , es importante que la envíes para tomarla en cuenta en tu calificación. ","0","100","Hola Julio,  necesito que me envies la tarea 1  esta semana, para tomarla en cuenta en tu calificación, tendrás un valor máximo de 80% , es importante que la envíes para tomarla en cuenta en tu calificación. "
+"KARLA","CARDOZO ROMERO","karla.cardozo@alumno.buap.mx","","100","","0","100","","","100","Entregar para tomar en cuenta, recuerde que estos ejercicios cuentan para su calificación de unidad 2","","100","Entregar para tomar en cuenta","","100","Entregar para tomar en cuenta","","100","Enviar actividad para tomarla en cuenta como participación de clase. ","0","100","Enviar,  se tomara con retraso. 
+","0","100","Se platicó con el alumno para recuperar las tareas. 
+
+- No entregado ","0","100","Preguntar y enviar actividad en clase para tomarla en cuenta","74","100","","0","100","","0","100","Hola karla,  necesito que me envies la tarea 2  esta semana, para tomarla en cuenta en tu calificación, tendrás un valor máximo de 80% , es importante que la envíes para tomarla en cuenta en tu calificación. ","0","100","Hola Karla,  necesito que me envies la tarea 1  para tomarla en cuenta en tu calificación, tendrás un valor máximo de 80% , es importante que la envíes para tomarla en cuenta en tu calificación. 
+"
+"LUIS","BAUTISTA FLORES","luis.bautistaflo@alumno.buap.mx","83","100","","85","100","Bien, solo hay que revisar unidades en los calculos de eficiencia térmica (google Colab). 
+
+","60","100","de igual manera, el ejercicio no esta completo, porfa pide ayuda a tus compañeros en la realización de los programas de google colab. 
+
+Puedes observar los ejemplos que ya tenemos resueltos en: 
+
+https://github.com/jesuscapistran/ex_fluidmechanics/tree/main/02_unidad
+-  revisa las unidades antes de hacer los cálculos. En este ejemplo deberías de multiplicar R (en metros) y lo tienes en mm.  Estos errores en ingeniería son muy serios. Ten cuidado. 
+
+- Te falta saber como graficar los datos , revisa los ejemplos. 
+
+","60","100","El Cuaderno de Google Colab muestra parte del problema pero no tiene la grafica que se pide. 
+
+Debes entregar tareas completas, pide ayuda a tus compañeros.  Revisar pagina 55 ( Por el momento observa el comportamiento de la viscosidad de un gas y de un liquido en función de la temperatura). 
+
+","80","100","En revisión !! Se tomará encuentra con retraso ","80","100","- Revisar ejercicio 1 en pagina 46 del libro de mecanica de fluidos.  Llega a la ecuación  
+
+k = P 
+
+- Revisa en Ejercicio 2, que debemos despejar ∆P  y al programar nos queda de esta manera 
+
+dp = -k *dv_v
+
+- Recuerda que el valor de dv_v (dv/v) es -0,01  (negativo) que significa que el volumen se reduce. 
+
+Intentalo !!! 
+
+","80","100","El resultado no es correcto, revisa el operador para elevar al cuadrado un numero. 
+
+x**2  (asi se eleva x^2) en python. 
+
+Revisa que las unidades sean homogeneas.  J/kg  (energía especifica). ","100","100","El trabajo esta resuelto en https://github.com/jesuscapistran/ex_fluidmechanics/blob/main/02_unidad/00_densidad_gasideal.ipynb 
+
+Entregado a tiempo ! 100 % 
+Con retraso 80% ","0","100","","","100","","0","100","","0","100","","0","100",""
+"MARIA","AMOZOC ESCALONA","maria.amozoc@alumno.buap.mx","95","100","","45","100","Recuerda interpretar los textos que has leido para realizar la tarea, veo varias partes del texto en la cual se copio texto e imagenes.  
+
+- No se cumplio con el total de la tarea. ","80","100","","","100","Entregar para tomar en cuenta","","100","Favor de entregar para tomar en cuenta !","80","100","Revisar ejercicio 1 en el libro,  la constante de compresibilidad de un gas ideal k = P . 
+
+","80","100","Muy bien,  porfa en proxima tarea comparte el enlace (publico) hacia tu  google colab. 
+
+- La implementación de funciones esta muy bien. fallo la ultima función de energía total. (Lo veremos en la proxima clase, no olvides hacer esta pregunta). ","100","100","El trabajo esta resuelto en https://github.com/jesuscapistran/ex_fluidmechanics/blob/main/02_unidad/00_densidad_gasideal.ipynb 
+
+Entregado a tiempo ! 100 % 
+Con retraso 80% ","100","100","Buen trabajo 
+
+La ecuación de peso específico se obtiene al sustituir Volumen  de la ecuación : 
+
+Peso esp = Peso/Volumen 
+
+a) Peso esp = m·g/Volumen 
+b) Peso esp = m·g/(m/densidad) 
+c) Peso esp =  densidad·g ","78","100","","100","100","","97.5","100","","85","100",""
+"MERCEDES","QUINTERO VELAZQUEZ","mercedes.quinterov@alumno.buap.mx","94","100","","0","100","","100","100","","100","100","Gracias por entregar, se tomara en cuenta para la unidad 2 ","100","100","","100","100","","90","100","LA metodología es correcta 
+
+-  EL error se encuentra al definir las formulas. recuerda que etsamos trabajando desde un inicio con el concepto de energía especifica por lo tanto 
+
+e_t  [J/kg]
+e_c [J/kg]
+e_p [J/kg]
+
+
+Esto quiere decir que debes eliminar masa (m) de tu ecuación. 
+
+ep = m*g*z #[Kg(m2/s2) = J]
+
+ep = g*z  #[ J/kg]
+","90","100","Se toma en cuenta el comentario ! Saludos
+
+El trabajo esta resuelto en https://github.com/jesuscapistran/ex_fluidmechanics/blob/main/02_unidad/00_densidad_gasideal.ipynb 
+
+Entregado a tiempo ! 100 % 
+Con retraso 80% ","100","100","- Tomado en cuenta , Buen fin de semana 
+
+Entregar para tomar en cuenta,  
+
+- Favor de tomar clase online, en caso de tener problemas en casa (conexión, salud) enviar mensaje para considerar la  situación. 
+
+","88","100","","100","100","","0","100","Hola,  necesito que me envies la tarea 2  esta semana, para tomarla en cuenta en tu calificación, tendrás un valor máximo de 80% , es importante que la envíes para tomarla en cuenta en tu calificación. ","82.5","100",""
+"MIGUEL","CAMACHO HERNANDEZ","miguel.camachoh@alumno.buap.mx","74","100","","85","100","Revisar los calculos de eficiencia de conversión. 
+
+Los valores se deben encontrar entre 0 y 60% . 
+","100","100","","80","100","Entregar para tomar en cuentaEste trabajo comprueba la actividad de clase, pero es una posible copia del trabajo de otro compañero.  
+
+Favor de realizar el trabajo de forma personal. 
+
+Saludos.","80","100","","90","100","","100","100","Buen trabajo 
+
+- trata de obtener el resultado de energía total en notación cientifica 
+
+- trata de asignar el nombre de variables V por energia_cinetica , al colocar un nombre de este tipo es mas facil leer tu codigo. ","100","100","El trabajo esta resuelto en https://github.com/jesuscapistran/ex_fluidmechanics/blob/main/02_unidad/00_densidad_gasideal.ipynb 
+
+Entregado a tiempo ! 100 % 
+Con retraso 80% ","100","100","Bien
+
+La ecuación de peso específico se obtiene al sustituir Volumen  de la ecuación : 
+
+Peso esp = Peso/Volumen ","90","100","","100","100","","92.5","100","","95","100",""
+"NATANAHEL","MEJIA ALVARADO","natanahel.mejiaa@alumno.buap.mx","79","100","","87.5","100","","100","100","El cálculo es correcto, solo hay que cuidar que la variable y sea la altura  por efecto de capilaridad. 
+
+","80","100","Este trabajo comprueba la actividad de clase, pero es una posible copia del trabajo de otro compañero.  
+
+Favor de realizar el trabajo de forma personal. 
+
+Saludos.","80","100","","90","100","La respuesta del ejercicio es correcta,  es la forma que indica el libro.  Te sugiero hacer el despeje en el cuaderno para entender cómo se simplifica la ecuación 
+
+k  = P para un gas ideal. 
+
+Bien , segundo ejercicio 
+","100","100","Buen resultado, 
+
+trata de asignar nombres conocidos a las variables por ejemplo en vez de usar V para energía cinetica utiliza energia_cinetica o e_c
+
+Trata de usar el concepto de funcion, en proxima tarea
+
+ ","100","100","El trabajo esta resuelto en https://github.com/jesuscapistran/ex_fluidmechanics/blob/main/02_unidad/00_densidad_gasideal.ipynb 
+
+Entregado a tiempo ! 100 % 
+Con retraso 80% ","100","100","Bien
+
+La ecuación de peso específico se obtiene al sustituir Volumen  de la ecuación : 
+
+Peso esp = Peso/Volumen 
+
+a) Peso esp = m·g/Volumen 
+b) Peso esp = m·g/(m/densidad) 
+c) Peso esp =  densidad·g ","83","100","","0","100","","95","100","","95","100",""
+"OLIVER","MONTIEL MUNOZ","oliver.montielm@alumno.buap.mx","68","100","","87.5","100","","100","100","","100","100","","100","100","","90","100","","80","100","Tienes un error de entrada al introducir el valor de entalpía
+
+h=2745.9  # [kJ/kg ].
+
+- El uso de dataframes con paquete PANDA sera utilizado más adelante..  Sin embargo,  gran trabajo al utilizarlo desde este momento.  
+
+","100","100","El trabajo esta resuelto en https://github.com/jesuscapistran/ex_fluidmechanics/blob/main/02_unidad/00_densidad_gasideal.ipynb 
+
+Entregado a tiempo ! 100 % 
+Con retraso 80% ","0","100","Entregar actividad para ser tomda en cuenta","77","100","","100","100","","80","100","","77.5","100",""
+"PAUL","CORONA PEREZ","paul.corona@alumno.buap.mx","78","100","","85","100","","100","100","","100","100","","100","100","","90","100","","70","100","El programa contiene error en las formulas de las energías. 
+
+debes eliminar los h en tus calculos de e_c y e_p. 
+
+e_c = round ((v*v*1)/2) , 1) 
+
+- Debes revisar que las unidades  sean homogeneas, por ejemplo h debe estar en [J/kg]","100","100","El trabajo esta resuelto en https://github.com/jesuscapistran/ex_fluidmechanics/blob/main/02_unidad/00_densidad_gasideal.ipynb 
+
+Entregado a tiempo ! 100 % 
+Con retraso 80% ","100","100","Bien planteado,  pero hizo falta sustituir volumen  de la ecuación de densidad  (procedimiento). 
+
+La ecuación de peso específico se obtiene al sustituir Volumen  de la ecuación : 
+
+Peso esp = Peso/Volumen 
+
+a) Peso esp = m·g/Volumen 
+b) Peso esp = m·g/(m/densidad) 
+c) Peso esp =  densidad·g ","98","100","","100","100","El procedimiento esta bien,  pero tienes un error de entrada en el segundo problema. 
+
+Recuerda leer muy bien las instrucciones. 
+
+Se indica que debemos tomar en cuenta una masa de 65 kg 
+
+----
+Tienes el mismo resultado que otro compañero
+
+Los dos cuentan con el mismo error de entrada al considerar el peso de 80 kg. 
+
+Favor de revisar muy bien el enunciado del problema y evitar solo copiar los resultados. ","92.5","100","","95","100",""
+"RODRIGO","ECHANIZ VARELA","rodrigo.echaniz@alumno.buap.mx","79","100","","82.5","100","","100","100","","","100","Entregar para tomar en cuenta","100","100","","90","100","","70","100","La logica del programa no es la correcta, recuerda las formulas para calcular energia potencial y energia cinetica. 
+
+Ejemplo
+
+ep = g*z
+ec = v**2/2
+h = h 
+
+- Revisa que las unidades sean homogeneas [J/kg ]
+","100","100","El trabajo esta resuelto en https://github.com/jesuscapistran/ex_fluidmechanics/blob/main/02_unidad/00_densidad_gasideal.ipynb 
+
+Entregado a tiempo ! 100 % 
+Con retraso 80% ","100","100","Bien, llegas al resultado,  trata de ordenar los resultados de tal forma que sea legible. 
+
+La ecuación de peso específico se obtiene al sustituir Volumen  de la ecuación : 
+
+Peso esp = Peso/Volumen 
+
+a) Peso esp = m·g/Volumen 
+b) Peso esp = m·g/(m/densidad) 
+c) Peso esp =  densidad·g ","69","100","","100","100","Tienes el mismo resultado que otro compañero
+
+Los dos cuentan con el mismo error de entrada al considerar el peso de 80 kg. 
+
+Favor de revisar muy bien el enunciado del problema y evitar solo copiar los resultados. ","92.5","100","","97.5","100",""
+"SAYURI","GAVINO BARTOLO","sayuri.gavino@alumno.buap.mx","85","100","","87.5","100","","100","100","","","100","Entregar para tomar en cuenta","100","100","","","100","Entregar, para tomar en cuenta la participación ","100","100","Recuerda que el fluido esta en movimiento, por lo tanto la energía del fluido se considera  h 
+
+Y la energia total es la suma de las energías especificas involucaradas. 
+
+e_total = e_c + e_p + h 
+
+Buen resultado, 
+
+en siguiente tarea, intenta utilizar el concepto de función","100","100","El trabajo esta resuelto en https://github.com/jesuscapistran/ex_fluidmechanics/blob/main/02_unidad/00_densidad_gasideal.ipynb 
+
+Entregado a tiempo ! 100 % 
+Con retraso 80% ","100","100","Muy buena explicación 
+
+La ecuación de peso específico se obtiene al sustituir Volumen  de la ecuación : 
+
+Peso esp = Peso/Volumen 
+
+a) Peso esp = m·g/Volumen 
+b) Peso esp = m·g/(m/densidad) 
+c) Peso esp =  densidad·g ","80","100","","100","100","","75","100","","87.5","100",""
+"SILVANO","CUEVAS CRUZ","silvano.cuevas@alumno.buap.mx","84","100","","97.5","100","","100","100","","100","100","","80","100","Ejercicio repetido .","90","100","Comentarios en COLAB ","100","100","Buen uso de las funciones,  
+
+Cuida mucho el orden de los paremetros que alimentan a tu función. 
+
+energiaTotal = energia_total(energia_potencial(z), energia_cinetica(v), h)
+
+
+Agregalos en el orden que programaste la función. 
+energía_total(ec, ep, h)","100","100","Excelentes habilidades de programación.  Sigue mejorando, la programación es el area mejor pagada en nuestros días. 
+
+Saludos 
+
+El trabajo esta resuelto en https://github.com/jesuscapistran/ex_fluidmechanics/blob/main/02_unidad/00_densidad_gasideal.ipynb 
+
+Entregado a tiempo ! 100 % 
+Con retraso 80% ","100","100","Excelente 
+
+La ecuación de peso específico se obtiene al sustituir Volumen  de la ecuación : 
+
+Peso esp = Peso/Volumen 
+
+a) Peso esp = m·g/Volumen 
+b) Peso esp = m·g/(m/densidad) 
+c) Peso esp =  densidad·g ","88","100","","100","100","1) Donde esta el error? Recuerda que la respuesta aproximada es 29,500 m. ","95","100","","97.5","100",""
+"WILLIAM","VARGUEZ CORDOVA","william.varguezc@alumno.buap.mx","90","100","","77.5","100","Primer parte 
+- Excelente trabajo 
+- Falta Bibliografía 
+
+
+Segunda parte 
+-Falta seguna parte de la tarea en Google Colab 
+
+
+","100","100","Favor de adjuntar URL del google colab en proxima tarea.  (se me facilita más revisar online, y enviar comentarios en el cuaderno de google colab) 
+
+El calculo es correcto solo cambia los ejes. 
+
+x = radio del tubo 
+y = altura del efecto de capilaridad. ","80","100","Favor de adjuntar enlace de google colab. 
+
+- revisa las constantes , deben estar en K 
+
+- Usa el vector temperatura en Kelvin 
+
+- En la viscosidad del aire, debemos revisar las unidades ya que el orden de magnitud de su viscosidad esta en 10^-5 . 
+
+Revisa la grafica de viscosidad al final de la pagina: https://jesuscapistran.com/courses/mecanica-de-fluidos/lessons/2-5-viscosidad-dinamica-y-cinematica/
+
+","80","100","- Favor de anexar la URL de google colab 
+
+- En segundo ejercicio confundiste el termino de densidad.  ","","100","Entregar para tomar en cuenta la participación ","80","100","Enviar dirección  URL del notebook de Google Colab !!
+
+- Contiene error de entrada, las unidades de la entalpía [kJ/kg] no coinciden con las demás unidades. 
+
+
+
+","100","100","El trabajo esta resuelto en https://github.com/jesuscapistran/ex_fluidmechanics/blob/main/02_unidad/00_densidad_gasideal.ipynb 
+
+Entregado a tiempo ! 100 % 
+Con retraso 80% ","","100","Entregar para tomar en cuenta","84","100","","100","100","","87.5","100","","77.5","100",""
+"YARELI","NUNEZ PERALTA","yareli.nunezpe@alumno.buap.mx","95","100","","100","100","Buen trabajo,  aunque la eficiencia de conversión aumenta al incrementar el flujo masico. También vemos que la ∆T disminuye.. aquí debemos tener cuidado ya que necesitamos que sea un equipo eficiente pero que nos entregue el agua a la temperatura deseada (cerca de 60ºC). ","100","100","","80","100","","100","100","","100","100","","100","100","Buen trabajo,  cuidaste que las unidades sean homogeneas [J/kg]
+
+
+- Intenta entregar el resultado en notación cientifica. ","100","100","El trabajo esta resuelto en https://github.com/jesuscapistran/ex_fluidmechanics/blob/main/02_unidad/00_densidad_gasideal.ipynb 
+
+Entregado a tiempo ! 100 % 
+Con retraso 80% ","100","100","Buen trabajo !
+
+La ecuación de peso específico se obtiene al sustituir Volumen  de la ecuación : 
+
+Peso esp = Peso/Volumen 
+
+a) Peso esp = m·g/Volumen 
+b) Peso esp = m·g/(m/densidad) 
+c) Peso esp =  densidad·g ","98","100","","100","100","Buen trabajo !","95","100","","85","100",""
